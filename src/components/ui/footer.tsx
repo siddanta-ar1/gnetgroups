@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 grid grid-cols-1 md:grid-cols-4 gap-6 text-sm text-gray-600">
         {/* Company Info */}
         <div>
-          <h2 className="text-lg font-bold text-blue-600 mb-2">GnetGroup.com</h2>
+          <h2 className="text-lg font-bold text-blue-600 mb-2">GnetGroups.com</h2>
           <p>Empowering businesses with e-commerce, hosting, and IT solutions.</p>
         </div>
 
@@ -34,7 +34,7 @@ export default function Footer() {
         {/* Contact */}
          <div>
           <h4 className="text-lg font-semibold mb-4">Contact</h4>
-          <p className="text-sm">Email: info@gnetgroup.com</p>
+          <p className="text-sm">Email: info@gnetgroups.com</p>
           <p className="text-sm">Phone: +1 (800) 123-4567</p>
           <p className="text-sm">Address: Toronto, Canada</p>
         </div>
@@ -51,7 +51,7 @@ export default function Footer() {
 
 
       <div className="text-center text-xs text-gray-500 mt-6">
-        © {new Date().getFullYear()} GnetGroup.com. All rights reserved.
+        © {new Date().getFullYear()} GnetGroups.com. All rights reserved.
       </div>
       </div>
     </footer>

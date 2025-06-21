@@ -70,7 +70,7 @@ export default function Navbar() {
             className="rounded-full border border-blue-200 bg-white"
             priority
           />
-          GnetGroup
+          GnetGroups
         </Link>
 
         {/* Desktop Nav */}
